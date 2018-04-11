@@ -1,0 +1,111 @@
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g stroke="null">
+  <title>background</title>
+  <rect x="-1" y="-1" width="402" height="202" id="canvas_background" fill="#fff" stroke="null"/>
+  <g id="canvasGrid" display="none" stroke="null">
+   <rect width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)" id="svg_2"/>
+  </g>
+ </g>
+ <g stroke="null">
+  <title>Layer 1</title>
+  <rect fill="#73c6b6" stroke-width="0" x="147.992089" y="113.917701" width="23.999906" height="23.999906" id="svg_89" transform="matrix(1.7469171541662443,-0.7494116701829887,0.7494116701829887,1.7469171541662443,-29.081210377762176,41.518114228578376) " stroke="#4c4c4c"/>
+  <rect fill="#73c6b6" stroke-width="0" x="147.793206" y="90.362466" width="23.999906" height="23.999906" id="svg_88" transform="matrix(1.7469171541662443,-0.7494116701829887,0.7494116701829887,1.7469171541662443,-29.081210377762176,41.518114228578376) " stroke="#4c4c4c"/>
+  <rect fill="#bb8fce" stroke-width="0" x="154.075771" y="41.529269" width="23.999906" height="23.999906" id="svg_74" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-47.427190317882065,51.095531083746806) " stroke="#4c4c4c"/>
+  <rect fill="#bb8fce" stroke-width="0" x="38.000658" y="64.714959" width="23.999906" height="23.999906" id="svg_73" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-47.427190317882065,51.095531083746806) " stroke="#4c4c4c"/>
+  <rect fill="#73c6b6" stroke-width="0" x="4.621445" y="21.787612" width="23.999906" height="23.999906" id="svg_71" transform="matrix(1.7469171541662443,-0.7494116701829887,0.7494116701829887,1.7469171541662443,-29.081210377762176,41.518114228578376) " stroke="#4c4c4c"/>
+  <line fill="none" x1="174.109004" y1="143.302464" x2="191.564949" y2="183.993168" id="svg_64" stroke-linejoin="null" stroke-linecap="null" stroke-width="2" stroke="#a5a5a5"/>
+  <rect fill="#bb8fce" stroke-width="0" x="84.555177" y="64.630617" width="23.999906" height="23.999906" id="svg_1" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-47.427190317882065,51.095531083746806) " stroke="#4c4c4c"/>
+  <ellipse fill="#4c4c4c" cx="81.496766" cy="71.121059" id="svg_3" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-45.5668752458125,38.62847161716075) " stroke="#4c4c4c"/>
+  <ellipse fill="#4c4c4c" cx="90.30154" cy="91.645432" id="svg_5" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-59.978459314531406,48.65536901392917) " stroke="#4c4c4c"/>
+  <ellipse fill="#4c4c4c" cx="111.132246" cy="82.709245" id="svg_6" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-49.80191224711491,63.28204764176119) " stroke="#4c4c4c"/>
+  <line fill="none" stroke-width="2" x1="156.083117" y1="103.278115" x2="196.839754" y2="85.793886" id="svg_8" stroke-linejoin="null" stroke-linecap="null" stroke="#4c4c4c"/>
+  <line fill="none" stroke-width="2" x1="172.039982" y1="144.605774" x2="216.381187" y2="125.583798" id="svg_9" stroke-linejoin="null" stroke-linecap="null" stroke="#4c4c4c"/>
+  <ellipse fill="#a5a5a5" cx="132.575764" cy="73.510173" id="svg_15" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-39.325996430627825,78.33902970857652) " stroke="#a5a5a5"/>
+  <line fill="none" x1="197.111358" y1="84.968921" x2="214.567302" y2="125.659626" id="svg_16" stroke-linejoin="null" stroke-linecap="null" stroke-width="4.5" stroke="#383838"/>
+  <line fill="none" stroke-width="2" x1="213.923208" y1="126.63823" x2="258.264413" y2="107.616253" id="svg_18" stroke-linejoin="null" stroke-linecap="null" stroke="#a5a5a5"/>
+  <rect fill="#73c6b6" stroke-width="0" x="76.660364" y="44.677539" width="23.999906" height="23.999906" id="svg_20" transform="matrix(1.7469171541662443,-0.7494116701829887,0.7494116701829887,1.7469171541662443,-29.081210377762176,41.518114228578376) " stroke="#4c4c4c"/>
+  <ellipse fill="#a5a5a5" cx="72.893852" cy="50.540212" id="svg_21" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-31.07986096824996,28.748085467119214) " stroke="#a5a5a5"/>
+  <line fill="none" stroke-width="2" x1="139.28001" y1="62.591531" x2="180.036646" y2="45.107303" id="svg_26" stroke-linejoin="null" stroke-linecap="null" stroke="#a5a5a5"/>
+  <line fill="none" stroke-width="2" x1="179.152572" y1="44.068435" x2="196.124472" y2="83.630805" id="svg_28" stroke-linejoin="null" stroke-linecap="null" stroke="#a5a5a5"/>
+  <line fill="none" stroke-width="4.5" x1="154.585803" y1="103.919199" x2="198.927008" y2="84.897223" id="svg_27" stroke-linejoin="null" stroke-linecap="null" stroke="#383838"/>
+  <ellipse fill="#a5a5a5" cx="60.386582" cy="80.320136" id="svg_30" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-55.99008081478833,23.828148474966966) " stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="69.191355" cy="100.844509" id="svg_32" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-70.40165832519679,33.855062892959815) " stroke="#a5a5a5"/>
+  <line fill="none" x1="113.995946" y1="120.903979" x2="131.451891" y2="161.594684" id="svg_34" stroke-linejoin="null" stroke-linecap="null" stroke-width="2" stroke="#a5a5a5"/>
+  <line fill="none" stroke-width="4.5" x1="154.072437" y1="102.722547" x2="171.044336" y2="142.284918" id="svg_37" stroke-linejoin="null" stroke-linecap="null" stroke="#383838"/>
+  <ellipse fill="#a5a5a5" cx="94.074541" cy="40.728468" id="svg_39" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-20.17374229146751,43.505753123715856) " stroke="#a5a5a5"/>
+  <line fill="none" stroke-width="2" x1="198.206903" y1="85.038425" x2="242.548108" y2="66.016448" id="svg_86" stroke-linejoin="null" stroke-linecap="null" stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="123.710015" cy="52.316655" id="svg_42" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-24.40878015801831,68.1593323875048) " stroke="#a5a5a5"/>
+  <ellipse fill="#383838" cx="90.38758" cy="91.698226" id="svg_60" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-60.10991725207113,48.57156146643743) " stroke="#383838"/>
+  <ellipse fill="#383838" cx="111.196087" cy="82.545261" id="svg_61" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-49.66553735235353,63.305266551305635) " stroke="#383838"/>
+  <ellipse fill="#a5a5a5" cx="99.96823" cy="112.312154" id="svg_62" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-74.36330533288039,59.36848499221855) " stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="71.343892" cy="36.198969" id="svg_63" rx="2.333324" ry="2.333324" transform="rotate(158.54275512695312 91.74934387207031,84.03469848632811) matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-64.18677001526468,73.99516603395736) " stroke="#a5a5a5"/>
+  <line fill="none" stroke-width="4.5" x1="174.312933" y1="143.644109" x2="215.069569" y2="126.15988" id="svg_65" stroke-linejoin="null" stroke-linecap="null" stroke="#383838"/>
+  <line fill="none" stroke-width="2" x1="91.920845" y1="83.47178" x2="136.26205" y2="64.449803" id="svg_66" stroke-linejoin="null" stroke-linecap="null" stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="144.862843" cy="42.545153" id="svg_70" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-13.538059374571027,82.90191158722573) " stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="153.799028" cy="63.37586" id="svg_72" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-28.16473947112813,93.07845895638053) " stroke="#a5a5a5"/>
+  <line fill="none" stroke-width="2" x1="255.376253" y1="107.332307" x2="299.717459" y2="88.310331" id="svg_75" stroke-linejoin="null" stroke-linecap="null" stroke="#a5a5a5"/>
+  <line fill="none" stroke-width="2" x1="279.291963" y1="46.993255" x2="296.263862" y2="86.555626" id="svg_76" stroke-linejoin="null" stroke-linecap="null" stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="114.830011" cy="31.371163" id="svg_78" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-9.684818305520022,58.00788796355858) " stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="135.529305" cy="22.128643" id="svg_79" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,0.7068245279629526,72.48492279564292) " stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="144.46549" cy="42.95935" id="svg_81" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-13.919862388676247,82.66145932021207) " stroke="#a5a5a5"/>
+  <line fill="none" stroke-width="2" x1="221.189243" y1="25.150755" x2="261.94588" y2="7.666527" id="svg_83" stroke-linejoin="null" stroke-linecap="null" stroke="#a5a5a5"/>
+  <line fill="none" stroke-width="2" x1="261.061798" y1="6.62766" x2="278.033697" y2="46.19003" id="svg_85" stroke-linejoin="null" stroke-linecap="null" stroke="#a5a5a5"/>
+  <line fill="none" x1="138.515851" y1="64.134965" x2="155.971796" y2="104.82567" id="svg_87" stroke-linejoin="null" stroke-linecap="null" stroke-width="2" stroke="#a5a5a5"/>
+  <text fill="#383838" stroke-width="0" x="62.482359" y="107.29514" id="svg_48" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" transform="rotate(-23.991601943969727 139.24475097656259,135.1962585449219) matrix(2.814696797604694,0,0,2.814696797604694,-60.983841725233624,-143.57213745737928) " stroke="#383838">D</text>
+  <text fill="#383838" stroke-width="0" x="93.801039" y="92.114272" id="svg_49" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" transform="rotate(-24.256179809570312 247.936767578125,85.37459564208984) matrix(2.7550675658163004,0,0,2.7237094315326895,-52.68971254679713,-142.8883277240136) " stroke="#383838">TS</text>
+  <ellipse fill="#383838" cx="197.541917" cy="85.156383" id="svg_24" rx="4.557423" ry="4.557423" stroke="#383838"/>
+  <ellipse fill="#383838" cx="81.454849" cy="71.038706" id="svg_23" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-45.351681656669896,38.47875261867152) " stroke="#383838"/>
+  <line fill="none" stroke-width="2" x1="85.420845" y1="181.97178" x2="129.76205" y2="162.949803" id="svg_7" stroke-linejoin="null" stroke-linecap="null" stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="51.976354" cy="89.774202" id="svg_10" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-74.36330533288039,59.36848499221855) " stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="52.824751" cy="67.018265" id="svg_11" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-74.36330533288039,59.36848499221855) " stroke="#a5a5a5"/>
+  <line fill="none" x1="70.609004" y1="136.802464" x2="88.064949" y2="177.493168" id="svg_12" stroke-linejoin="null" stroke-linecap="null" stroke-width="2" stroke="#a5a5a5"/>
+  <line fill="none" stroke-width="2" x1="67.920845" y1="140.47178" x2="112.26205" y2="121.449803" id="svg_13" stroke-linejoin="null" stroke-linecap="null" stroke="#a5a5a5"/>
+  <line fill="none" stroke-width="2" x1="43.920845" y1="199.97178" x2="88.26205" y2="180.949803" id="svg_14" stroke-linejoin="null" stroke-linecap="null" stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="28.816723" cy="89.866835" id="svg_17" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-74.36330533288039,59.36848499221855) " stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="29.665121" cy="67.110898" id="svg_19" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-74.36330533288039,59.36848499221855) " stroke="#a5a5a5"/>
+  <line fill="none" x1="29.109004" y1="154.802464" x2="46.564949" y2="195.493168" id="svg_22" stroke-linejoin="null" stroke-linecap="null" stroke-width="2" stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="52.328425" cy="44.799665" id="svg_33" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-74.36330533288039,59.36848499221855) " stroke="#a5a5a5"/>
+  <line fill="none" stroke-width="2" x1="49.920845" y1="101.97178" x2="94.26205" y2="82.949803" id="svg_36" stroke-linejoin="null" stroke-linecap="null" stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="29.605899" cy="44.522705" id="svg_38" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-74.36330533288039,59.36848499221855) " stroke="#a5a5a5"/>
+  <line fill="none" x1="11.609004" y1="114.302464" x2="29.064949" y2="154.993168" id="svg_40" stroke-linejoin="null" stroke-linecap="null" stroke-width="2" stroke="#a5a5a5"/>
+  <line fill="none" stroke-width="2" x1="8.920845" y1="118.97178" x2="53.26205" y2="99.949803" id="svg_41" stroke-linejoin="null" stroke-linecap="null" stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="52.403537" cy="22.547654" id="svg_43" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-74.36330533288039,59.36848499221855) " stroke="#a5a5a5"/>
+  <line fill="none" x1="36.609004" y1="59.802464" x2="54.064949" y2="100.493168" id="svg_44" stroke-linejoin="null" stroke-linecap="null" stroke-width="2" stroke="#a5a5a5"/>
+  <line fill="none" x1="-4.390996" y1="76.802464" x2="13.064949" y2="117.493168" id="svg_45" stroke-linejoin="null" stroke-linecap="null" stroke-width="2" stroke="#a5a5a5"/>
+  <line fill="none" stroke-width="2" x1="-7.079155" y1="78.47178" x2="37.26205" y2="59.449803" id="svg_46" stroke-linejoin="null" stroke-linecap="null" stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="74.420291" cy="22.521843" id="svg_47" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-74.36330533288039,59.36848499221855) " stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="98.857134" cy="22.698569" id="svg_53" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-74.36330533288039,59.36848499221855) " stroke="#a5a5a5"/>
+  <line fill="none" x1="119.109004" y1="21.802464" x2="136.564949" y2="62.493168" id="svg_54" stroke-linejoin="null" stroke-linecap="null" stroke-width="2" stroke="#a5a5a5"/>
+  <line fill="none" stroke-width="2" x1="75.420845" y1="41.97178" x2="119.76205" y2="22.949803" id="svg_55" stroke-linejoin="null" stroke-linecap="null" stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="52.310214" cy="1.337597" id="svg_56" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-74.36330533288039,59.36848499221855) " stroke="#a5a5a5"/>
+  <line fill="none" stroke-width="2" x1="-24.579155" y1="40.97178" x2="19.76205" y2="21.949803" id="svg_58" stroke-linejoin="null" stroke-linecap="null" stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="191.774937" cy="87.907783" id="svg_59" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-74.36330533288039,59.36848499221855) " stroke="#a5a5a5"/>
+  <line fill="none" x1="296.609004" y1="89.302464" x2="314.064949" y2="129.993168" id="svg_67" stroke-linejoin="null" stroke-linecap="null" stroke-width="2" stroke="#a5a5a5"/>
+  <line fill="none" stroke-width="2" x1="296.420845" y1="88.47178" x2="340.76205" y2="69.449803" id="svg_68" stroke-linejoin="null" stroke-linecap="null" stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="168.270835" cy="111.529638" id="svg_69" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-74.36330533288039,59.36848499221855) " stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="192.219642" cy="66.092876" id="svg_77" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-74.36330533288039,59.36848499221855) " stroke="#a5a5a5"/>
+  <line fill="none" stroke-width="2" x1="281.920845" y1="47.97178" x2="326.26205" y2="28.949803" id="svg_80" stroke-linejoin="null" stroke-linecap="null" stroke="#a5a5a5"/>
+  <line fill="none" x1="303.609004" y1="-13.197536" x2="321.064949" y2="27.493168" id="svg_82" stroke-linejoin="null" stroke-linecap="null" stroke-width="2" stroke="#a5a5a5"/>
+  <line fill="none" x1="203.609004" y1="-14.197536" x2="221.064949" y2="26.493168" id="svg_84" stroke-linejoin="null" stroke-linecap="null" stroke-width="2" stroke="#a5a5a5"/>
+  <line fill="none" stroke-width="2" x1="314.791963" y1="130.493255" x2="331.763862" y2="170.055626" id="svg_90" stroke-linejoin="null" stroke-linecap="null" stroke="#a5a5a5"/>
+  <line fill="none" stroke-width="2" x1="339.291963" y1="72.993255" x2="356.263862" y2="112.555626" id="svg_91" stroke-linejoin="null" stroke-linecap="null" stroke="#a5a5a5"/>
+  <line fill="none" stroke-width="2" x1="356.291963" y1="112.493255" x2="373.263862" y2="152.055626" id="svg_92" stroke-linejoin="null" stroke-linecap="null" stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="191.691534" cy="133.554682" id="svg_93" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-74.36330533288039,59.36848499221855) " stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="191.531389" cy="111.201748" id="svg_94" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-74.36330533288039,59.36848499221855) " stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="169.271087" cy="134.521524" id="svg_95" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-74.36330533288039,59.36848499221855) " stroke="#a5a5a5"/>
+  <line fill="none" stroke-width="2" x1="315.420845" y1="128.47178" x2="359.76205" y2="109.449803" id="svg_96" stroke-linejoin="null" stroke-linecap="null" stroke="#a5a5a5"/>
+  <line fill="none" stroke-width="2" x1="331.420845" y1="171.97178" x2="375.76205" y2="152.949803" id="svg_97" stroke-linejoin="null" stroke-linecap="null" stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="122.657346" cy="112.017674" id="svg_98" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-74.36330533288039,59.36848499221855) " stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="215.539418" cy="88.353178" id="svg_99" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-74.36330533288039,59.36848499221855) " stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="215.883199" cy="66.773529" id="svg_100" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-74.36330533288039,59.36848499221855) " stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="146.925753" cy="113.236355" id="svg_101" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-74.36330533288039,59.36848499221855) " stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="147.053178" cy="133.068277" id="svg_102" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-74.36330533288039,59.36848499221855) " stroke="#a5a5a5"/>
+  <line fill="none" stroke-width="2" x1="337.920845" y1="71.97178" x2="382.26205" y2="52.949803" id="svg_103" stroke-linejoin="null" stroke-linecap="null" stroke="#a5a5a5"/>
+  <line fill="none" stroke-width="2" x1="374.920845" y1="150.47178" x2="419.26205" y2="131.449803" id="svg_104" stroke-linejoin="null" stroke-linecap="null" stroke="#a5a5a5"/>
+  <line fill="none" stroke-width="2" x1="374.291963" y1="153.493255" x2="391.263862" y2="193.055626" id="svg_105" stroke-linejoin="null" stroke-linecap="null" stroke="#a5a5a5"/>
+  <line fill="none" stroke-width="2" x1="276.291963" y1="149.493255" x2="293.263862" y2="189.055626" id="svg_106" stroke-linejoin="null" stroke-linecap="null" stroke="#a5a5a5"/>
+  <ellipse fill="#a5a5a5" cx="192.086937" cy="156.00854" id="svg_107" rx="2.333324" ry="2.333324" transform="matrix(1.7949910601823609,-0.770034941363214,0.770034941363214,1.7949910601823609,-74.36330533288039,59.36848499221855) " stroke="#a5a5a5"/>
+ </g>
+</svg>

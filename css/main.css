@@ -1,0 +1,92 @@
+
+html,body,#page-wrapper{
+	height:100%;
+	width:100%;
+	margin:0;
+	padding:0;
+	font-family: 'Oxygen', sans-serif;
+	overflow:hidden;
+}
+body{
+	font-family:arial;
+	font-size:1em;
+	background-color:#E5E8E8;
+	color:#3E3936;
+}
+
+a, .link_lookalike{
+	color:#2E4053;
+	text-decoration:underline;
+}
+
+a:hover, .link_lookalike:hover{
+	color:#2E86C1;
+	cursor:pointer;
+}
+textarea{
+	resize: none;
+}
+
+.circle-img{
+	border-radius: 50%;
+}
+
+.table{
+	display:table;
+}
+.table-row{
+	display:table-row;
+}
+.table-cell{
+	display:table-cell;
+	vertical-align:middle;
+}
+
+
+.main_content{
+	background-color:#fff;
+}
+
+#user_details .table{
+	height:100%;
+}
+#user_details .table-cell{
+	padding:0.3em;
+}
+#user_details{
+	height:4em;
+	background-color:#2E4053;
+	margin-bottom:0.5em;
+	font-weight:bold;
+	color:#fff;
+	letter-spacing:0.05em;
+}
+#signup .details{
+	text-align:left;
+	padding:0;
+}
+.details em{
+	font-size:0.8em;
+}
+ul{
+	list-style:none;
+	padding:0;
+}
+#avatar{
+	width:50px;
+	max-width:52px;
+}
+#icon_username{
+	width:100%;
+	min-width:100%;
+}
+#logout{
+	text-align:right;
+}
+#logout span{
+	margin-right:0.5em;
+}
+#logout span:hover{
+	cursor:pointer;
+	color:#E57E89;
+}

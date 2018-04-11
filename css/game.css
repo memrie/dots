@@ -1,0 +1,153 @@
+
+body{
+	background-color:#fff;
+}
+.menu_title{
+	background-color:#2E86C1;
+	padding:0.5em 0;
+	color:#fff;
+	font-weight:bold;
+	text-align:center;
+	margin:0.2em 0;
+}
+
+#page-cell,#page-wrapper, #page-row, #page-content{
+	display:block;
+	margin:0 auto;
+	height:100%;
+	min-height:100%;
+}
+
+#page-content,#main_content{
+	width:100%;
+	min-width:100%;
+	height:100%;
+	min-height:100%;
+}
+
+#game{
+	overflow:hidden;
+	margin:auto;
+	height:calc(100% - 0.5em);
+	min-height:calc(100% - 0.5em);
+}
+
+#chat_controls, #game_controls{
+	display:inline-block;
+	float:left;
+	position:relative;
+	padding:0.5em;
+	
+}
+#chat_controls{
+	width:calc(30% - 1em);
+	max-width:calc(30% - 1em);
+	height:calc(100% - 5em);
+	min-height:calc(100% - 5em);
+	max-height:calc(100% - 5em);
+	
+}
+#game_controls{
+	width:calc(70% - 1em);
+	max-width:calc(70% - 1em);
+	height:calc(100% - 5em);
+	min-height:calc(100% - 10em);
+	max-height:calc(100% - 10em);
+}
+#game_status, #game_status_bottom{
+	background-color:#D0D3D4;
+	color:#2E4053;
+	font-weight:bold;
+	height:2em;
+	overflow:auto;
+	width:100%;
+}
+#dots_game{
+	display:block;
+	margin:0.4em auto;
+}
+#game_status .table-cell, #game_status_bottom .table-cell{
+	padding:0.3em;
+}
+
+#game_status .padding, #game_status_bottom .padding{
+	padding:0 0.3em 0 0;
+}
+.score{
+	min-width:30%;
+	width:30%;
+}
+#turn{
+	text-align:center;
+}
+.right_aligned{
+	text-align:right;
+}
+.good_health{
+	color:#148F77;
+}
+.okay_health{
+	color:#CA6F1E;
+}
+.bad_health{
+	color:#CD6155;
+}
+
+
+#messages-list{
+	width:calc(100% - 0.55em);
+	margin-bottom:0.5em;
+	background-color:#fff;
+	height:calc(80% - 7.5em - 33px);
+	border:0.1em solid #808B96;
+}
+#your_message{
+	width:calc(100% - 0.3em);
+	margin-bottom:0.5em;
+	height:calc(20% - 5.5em - 33px);
+	border:0.15em solid #808B96;
+	min-height:30px;
+}
+#send_your_message{
+	height:calc(10% - 1em);
+	width:100%;
+	border:0.15em solid #46669D;
+	color:#fff;
+	font-size:1em;
+	font-weight:bold;
+	min-height:33px;
+	background-color:#46669D;
+}
+
+#chat-users{
+	overflow:auto;
+	max-height:5em;
+	height:5em;
+}
+
+#gameboard{
+	position:relative;
+	height:100%;
+	max-height:100%;
+	max-width:100%;
+	width:100%;
+	overflow:auto;
+}
+
+
+#gameboard svg circle:hover{
+	cursor:pointer;
+}
+
+#game_over{
+	display:none;
+	position:absolute;
+	width:100%;
+	height:100%;
+	z-index:20;
+	background:rgba(256, 256, 256, 0.6);
+}
+
+
+
+
